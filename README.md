@@ -2,6 +2,11 @@
 
 Append PDF documents into a single document.
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
